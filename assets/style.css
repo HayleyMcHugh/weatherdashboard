@@ -1,0 +1,19 @@
+body {
+    background: rgb(174,189,238);
+    background: radial-gradient(circle, rgba(174,189,238,1) 0%, rgba(148,217,233,1) 44%);
+}
+
+header {
+    font-size: 25px;
+}
+
+.form-control {
+    border-color: black;
+    background-color: rgb(240, 233, 233);
+}
+
+#searchBtn {
+    background-color: rgb(202, 202, 233);
+    color: black;
+    border-color: black;
+}
